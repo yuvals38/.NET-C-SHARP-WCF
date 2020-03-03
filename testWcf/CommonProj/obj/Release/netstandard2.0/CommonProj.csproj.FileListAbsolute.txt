@@ -1,0 +1,9 @@
+C:\temp\testWcf\CommonProj\bin\Release\netstandard2.0\CommonProj.deps.json
+C:\temp\testWcf\CommonProj\bin\Release\netstandard2.0\CommonProj.dll
+C:\temp\testWcf\CommonProj\bin\Release\netstandard2.0\CommonProj.pdb
+C:\temp\testWcf\CommonProj\obj\Release\netstandard2.0\CommonProj.csprojAssemblyReference.cache
+C:\temp\testWcf\CommonProj\obj\Release\netstandard2.0\CommonProj.csproj.CoreCompileInputs.cache
+C:\temp\testWcf\CommonProj\obj\Release\netstandard2.0\CommonProj.AssemblyInfoInputs.cache
+C:\temp\testWcf\CommonProj\obj\Release\netstandard2.0\CommonProj.AssemblyInfo.cs
+C:\temp\testWcf\CommonProj\obj\Release\netstandard2.0\CommonProj.dll
+C:\temp\testWcf\CommonProj\obj\Release\netstandard2.0\CommonProj.pdb

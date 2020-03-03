@@ -1,0 +1,17 @@
+C:\temp\testWcf\CommonProj\bin\Debug\netstandard2.0\CommonProj.deps.json
+C:\temp\testWcf\CommonProj\bin\Debug\netstandard2.0\CommonProj.dll
+C:\temp\testWcf\CommonProj\bin\Debug\netstandard2.0\CommonProj.pdb
+C:\temp\testWcf\CommonProj\obj\Debug\netstandard2.0\CommonProj.csproj.CoreCompileInputs.cache
+C:\temp\testWcf\CommonProj\obj\Debug\netstandard2.0\CommonProj.AssemblyInfoInputs.cache
+C:\temp\testWcf\CommonProj\obj\Debug\netstandard2.0\CommonProj.AssemblyInfo.cs
+C:\temp\testWcf\CommonProj\obj\Debug\netstandard2.0\CommonProj.dll
+C:\temp\testWcf\CommonProj\obj\Debug\netstandard2.0\CommonProj.pdb
+C:\temp\testWcf\CommonProj\obj\Debug\netstandard2.0\CommonProj.csprojAssemblyReference.cache
+C:\Users\yuval.s\Desktop\testWcf\CommonProj\bin\Debug\netstandard2.0\CommonProj.deps.json
+C:\Users\yuval.s\Desktop\testWcf\CommonProj\bin\Debug\netstandard2.0\CommonProj.dll
+C:\Users\yuval.s\Desktop\testWcf\CommonProj\bin\Debug\netstandard2.0\CommonProj.pdb
+C:\Users\yuval.s\Desktop\testWcf\CommonProj\obj\Debug\netstandard2.0\CommonProj.AssemblyInfoInputs.cache
+C:\Users\yuval.s\Desktop\testWcf\CommonProj\obj\Debug\netstandard2.0\CommonProj.AssemblyInfo.cs
+C:\Users\yuval.s\Desktop\testWcf\CommonProj\obj\Debug\netstandard2.0\CommonProj.dll
+C:\Users\yuval.s\Desktop\testWcf\CommonProj\obj\Debug\netstandard2.0\CommonProj.pdb
+C:\Users\yuval.s\Desktop\testWcf\CommonProj\obj\Debug\netstandard2.0\CommonProj.csprojAssemblyReference.cache

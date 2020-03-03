@@ -1,0 +1,7 @@
+C:\Users\yuval.s\Desktop\testWcf\Common\Bin\Debug\Scodix.Infra.ServiceHost.dll.config
+C:\Users\yuval.s\Desktop\testWcf\Common\Bin\Debug\Scodix.Infra.ServiceHost.dll
+C:\Users\yuval.s\Desktop\testWcf\Common\Bin\Debug\Scodix.Infra.ServiceHost.pdb
+C:\Users\yuval.s\Desktop\testWcf\ScodixServiceHost\obj\x64\Debug\ScodixServiceHost.csprojAssemblyReference.cache
+C:\Users\yuval.s\Desktop\testWcf\ScodixServiceHost\obj\x64\Debug\ScodixServiceHost.csproj.CopyComplete
+C:\Users\yuval.s\Desktop\testWcf\ScodixServiceHost\obj\x64\Debug\Scodix.Infra.ServiceHost.dll
+C:\Users\yuval.s\Desktop\testWcf\ScodixServiceHost\obj\x64\Debug\Scodix.Infra.ServiceHost.pdb

@@ -1,0 +1,4 @@
+C:\Users\yuval.s\Desktop\testWcf\Common\Bin\Debug\Scodix.Infra.PressToStudio.dll
+C:\Users\yuval.s\Desktop\testWcf\Common\Bin\Debug\Scodix.Infra.PressToStudio.pdb
+C:\Users\yuval.s\Desktop\testWcf\Scodix.PressToStudio\obj\x64\Debug\Scodix.Infra.PressToStudio.dll
+C:\Users\yuval.s\Desktop\testWcf\Scodix.PressToStudio\obj\x64\Debug\Scodix.Infra.PressToStudio.pdb
