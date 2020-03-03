@@ -123,3 +123,4 @@ C:\Users\yuval.s\Desktop\testWcf\WcfClientForm\bin\Debug\Castle.Core.xml
 C:\Users\yuval.s\Desktop\testWcf\WcfClientForm\obj\Debug\WcfClientForm.csproj.CopyComplete
 C:\Users\yuval.s\Desktop\testWcf\WcfClientForm\obj\Debug\WcfClientForm.exe
 C:\Users\yuval.s\Desktop\testWcf\WcfClientForm\obj\Debug\WcfClientForm.pdb
+C:\Users\yuval.s\Desktop\testWcf\WcfClientForm\obj\Debug\WcfClientForm.csproj.CoreCompileInputs.cache

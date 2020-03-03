@@ -110,13 +110,13 @@
       <Project>{3e58582f-b88f-4c5b-97c9-7b62957c5820}</Project>
       <Name>CommonProj</Name>
     </ProjectReference>
-    <ProjectReference Include="..\Scodix.PressToStudio\Scodix.Infra.PressToStudio.csproj">
+    <ProjectReference Include="..\Scodix.PressToStudio\PressToStudio.csproj">
       <Project>{29b1973f-05a4-457b-bc08-33d9bb0899c3}</Project>
-      <Name>Scodix.Infra.PressToStudio</Name>
+      <Name>PressToStudio</Name>
     </ProjectReference>
-    <ProjectReference Include="..\ScodixServiceClient\ScodixServiceClient.csproj">
+    <ProjectReference Include="..\ScodixServiceClient\ServiceClient.csproj">
       <Project>{f9e015d4-2747-4bb7-be4b-b08f9382b9da}</Project>
-      <Name>ScodixServiceClient</Name>
+      <Name>ServiceClient</Name>
     </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />

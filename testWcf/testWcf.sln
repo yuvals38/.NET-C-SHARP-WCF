@@ -7,13 +7,13 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WcfClientForm", "WcfClientF
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WcfServerForm", "WcfServerForm\WcfServerForm.csproj", "{989E70BC-BEA4-44D1-8E56-F9BE9C312F2E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ScodixServiceClient", "ScodixServiceClient\ScodixServiceClient.csproj", "{F9E015D4-2747-4BB7-BE4B-B08F9382B9DA}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ServiceClient", "ScodixServiceClient\ServiceClient.csproj", "{F9E015D4-2747-4BB7-BE4B-B08F9382B9DA}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ScodixServiceHost", "ScodixServiceHost\ScodixServiceHost.csproj", "{50BFD6A8-227F-43F8-99BD-E705587F506F}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ServiceHost", "ScodixServiceHost\ServiceHost.csproj", "{50BFD6A8-227F-43F8-99BD-E705587F506F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Scodix.Infra.PressToStudio", "Scodix.PressToStudio\Scodix.Infra.PressToStudio.csproj", "{29B1973F-05A4-457B-BC08-33D9BB0899C3}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PressToStudio", "Scodix.PressToStudio\PressToStudio.csproj", "{29B1973F-05A4-457B-BC08-33D9BB0899C3}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CommonProj", "CommonProj\CommonProj.csproj", "{3E58582F-B88F-4C5B-97C9-7B62957C5820}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CommonProj", "CommonProj\CommonProj.csproj", "{3E58582F-B88F-4C5B-97C9-7B62957C5820}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

@@ -113,9 +113,9 @@
       <Project>{3e58582f-b88f-4c5b-97c9-7b62957c5820}</Project>
       <Name>CommonProj</Name>
     </ProjectReference>
-    <ProjectReference Include="..\ScodixServiceHost\ScodixServiceHost.csproj">
+    <ProjectReference Include="..\ScodixServiceHost\ServiceHost.csproj">
       <Project>{50bfd6a8-227f-43f8-99bd-e705587f506f}</Project>
-      <Name>ScodixServiceHost</Name>
+      <Name>ServiceHost</Name>
     </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />

@@ -1,0 +1,7 @@
+C:\Users\yuval.s\Desktop\testWcf\Common\Bin\Debug\Scodix.Infra.ServiceClient.dll
+C:\Users\yuval.s\Desktop\testWcf\Common\Bin\Debug\Scodix.Infra.ServiceClient.pdb
+C:\Users\yuval.s\Desktop\testWcf\ScodixServiceClient\obj\x64\Debug\ServiceClient.csprojAssemblyReference.cache
+C:\Users\yuval.s\Desktop\testWcf\ScodixServiceClient\obj\x64\Debug\ServiceClient.csproj.CoreCompileInputs.cache
+C:\Users\yuval.s\Desktop\testWcf\ScodixServiceClient\obj\x64\Debug\ServiceClient.csproj.CopyComplete
+C:\Users\yuval.s\Desktop\testWcf\ScodixServiceClient\obj\x64\Debug\Scodix.Infra.ServiceClient.dll
+C:\Users\yuval.s\Desktop\testWcf\ScodixServiceClient\obj\x64\Debug\Scodix.Infra.ServiceClient.pdb

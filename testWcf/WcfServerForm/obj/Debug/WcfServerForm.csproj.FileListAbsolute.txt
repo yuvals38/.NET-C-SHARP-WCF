@@ -127,3 +127,4 @@ C:\Users\yuval.s\Desktop\testWcf\WcfServerForm\bin\Debug\nunit.framework.xml
 C:\Users\yuval.s\Desktop\testWcf\WcfServerForm\bin\Debug\Scodix.Infra.ServiceHost.pdb
 C:\Users\yuval.s\Desktop\testWcf\WcfServerForm\bin\Debug\Scodix.Infra.ServiceHost.dll.config
 C:\Users\yuval.s\Desktop\testWcf\WcfServerForm\bin\Debug\Scodix.Infra.PressToStudio.pdb
+C:\Users\yuval.s\Desktop\testWcf\WcfServerForm\obj\Debug\WcfServerForm.csproj.CoreCompileInputs.cache

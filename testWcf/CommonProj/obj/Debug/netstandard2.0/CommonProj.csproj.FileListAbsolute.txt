@@ -15,3 +15,4 @@ C:\Users\yuval.s\Desktop\testWcf\CommonProj\obj\Debug\netstandard2.0\CommonProj.
 C:\Users\yuval.s\Desktop\testWcf\CommonProj\obj\Debug\netstandard2.0\CommonProj.dll
 C:\Users\yuval.s\Desktop\testWcf\CommonProj\obj\Debug\netstandard2.0\CommonProj.pdb
 C:\Users\yuval.s\Desktop\testWcf\CommonProj\obj\Debug\netstandard2.0\CommonProj.csprojAssemblyReference.cache
+C:\Users\yuval.s\Desktop\testWcf\CommonProj\obj\Debug\netstandard2.0\CommonProj.csproj.CoreCompileInputs.cache
