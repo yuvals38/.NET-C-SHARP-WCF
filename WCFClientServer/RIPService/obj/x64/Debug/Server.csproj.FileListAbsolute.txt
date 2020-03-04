@@ -1,0 +1,12 @@
+C:\Users\moti.w\Desktop\WCFClientServer\Common\Bin\Debug\Server.exe.config
+C:\Users\moti.w\Desktop\WCFClientServer\Common\Bin\Debug\Server.exe
+C:\Users\moti.w\Desktop\WCFClientServer\Common\Bin\Debug\Server.pdb
+C:\Users\moti.w\Desktop\WCFClientServer\Server\obj\x64\Debug\Server.csprojAssemblyReference.cache
+C:\Users\moti.w\Desktop\WCFClientServer\Server\obj\x64\Debug\Server.Properties.Resources.resources
+C:\Users\moti.w\Desktop\WCFClientServer\Server\obj\x64\Debug\CentralMessagingServer.PublisherForm.resources
+C:\Users\moti.w\Desktop\WCFClientServer\Server\obj\x64\Debug\CentralMessagingServer.Server.resources
+C:\Users\moti.w\Desktop\WCFClientServer\Server\obj\x64\Debug\Server.csproj.GenerateResource.cache
+C:\Users\moti.w\Desktop\WCFClientServer\Server\obj\x64\Debug\Server.csproj.CoreCompileInputs.cache
+C:\Users\moti.w\Desktop\WCFClientServer\Server\obj\x64\Debug\Server.csproj.CopyComplete
+C:\Users\moti.w\Desktop\WCFClientServer\Server\obj\x64\Debug\Server.exe
+C:\Users\moti.w\Desktop\WCFClientServer\Server\obj\x64\Debug\Server.pdb

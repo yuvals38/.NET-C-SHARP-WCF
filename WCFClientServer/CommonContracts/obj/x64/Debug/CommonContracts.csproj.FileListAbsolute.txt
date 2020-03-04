@@ -1,0 +1,6 @@
+C:\Users\moti.w\Desktop\WCFClientServer\CommonContracts\obj\x64\Debug\CommonContracts.csprojAssemblyReference.cache
+C:\Users\moti.w\Desktop\WCFClientServer\CommonContracts\obj\x64\Debug\CommonContracts.csproj.CoreCompileInputs.cache
+C:\Users\moti.w\Desktop\WCFClientServer\Common\Bin\Debug\RIPCommon.dll
+C:\Users\moti.w\Desktop\WCFClientServer\Common\Bin\Debug\RIPCommon.pdb
+C:\Users\moti.w\Desktop\WCFClientServer\CommonContracts\obj\x64\Debug\RIPCommon.dll
+C:\Users\moti.w\Desktop\WCFClientServer\CommonContracts\obj\x64\Debug\RIPCommon.pdb

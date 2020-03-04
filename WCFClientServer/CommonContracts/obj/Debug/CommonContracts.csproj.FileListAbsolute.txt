@@ -1,0 +1,46 @@
+E:\Thesis Code\TopicWCFPubSUB\ENS\ENS\CommonStuffs\bin\Debug\CommonStuffs.dll
+E:\Thesis Code\TopicWCFPubSUB\ENS\ENS\CommonStuffs\bin\Debug\CommonStuffs.pdb
+E:\Thesis Code\TopicWCFPubSUB\ENS\ENS\CommonStuffs\obj\Debug\ResolveAssemblyReference.cache
+E:\Thesis Code\TopicWCFPubSUB\ENS\ENS\CommonStuffs\obj\Debug\CommonStuffs.dll
+E:\Thesis Code\TopicWCFPubSUB\ENS\ENS\CommonStuffs\obj\Debug\CommonStuffs.pdb
+E:\Thesis Code\TopicWCFPubSUB\ENS\ENS\CommonContracts\bin\Debug\CommonStuffs.dll
+E:\Thesis Code\TopicWCFPubSUB\ENS\ENS\CommonContracts\bin\Debug\CommonStuffs.pdb
+E:\Thesis Code\TopicWCFPubSUB\ENS\ENS\CommonContracts\obj\Debug\ResolveAssemblyReference.cache
+E:\Thesis Code\TopicWCFPubSUB\ENS\ENS\CommonContracts\obj\Debug\CommonStuffs.dll
+E:\Thesis Code\TopicWCFPubSUB\ENS\ENS\CommonContracts\obj\Debug\CommonStuffs.pdb
+E:\Thesis Code\TopicWCFPubSUB\TopicBasedPublishSubscribe\TopicBasedPublishSubscribe\CommonContracts\bin\Debug\CommonStuffs.dll
+E:\Thesis Code\TopicWCFPubSUB\TopicBasedPublishSubscribe\TopicBasedPublishSubscribe\CommonContracts\bin\Debug\CommonStuffs.pdb
+E:\Thesis Code\TopicWCFPubSUB\TopicBasedPublishSubscribe\TopicBasedPublishSubscribe\CommonContracts\obj\Debug\ResolveAssemblyReference.cache
+E:\Thesis Code\TopicWCFPubSUB\TopicBasedPublishSubscribe\TopicBasedPublishSubscribe\CommonContracts\obj\Debug\CommonStuffs.dll
+E:\Thesis Code\TopicWCFPubSUB\TopicBasedPublishSubscribe\TopicBasedPublishSubscribe\CommonContracts\obj\Debug\CommonStuffs.pdb
+F:\ebook\Development\Article Writting\TopicBasedPubSub\Update1\writeup_Topic\FinalCode\WCF\TopicBasedPublishSubscribe\CommonContracts\bin\Debug\CommonStuffs.dll
+F:\ebook\Development\Article Writting\TopicBasedPubSub\Update1\writeup_Topic\FinalCode\WCF\TopicBasedPublishSubscribe\CommonContracts\bin\Debug\CommonStuffs.pdb
+F:\ebook\Development\Article Writting\TopicBasedPubSub\Update1\writeup_Topic\FinalCode\WCF\TopicBasedPublishSubscribe\CommonContracts\obj\Debug\ResolveAssemblyReference.cache
+F:\ebook\Development\Article Writting\TopicBasedPubSub\Update1\writeup_Topic\FinalCode\WCF\TopicBasedPublishSubscribe\CommonContracts\obj\Debug\CommonStuffs.dll
+F:\ebook\Development\Article Writting\TopicBasedPubSub\Update1\writeup_Topic\FinalCode\WCF\TopicBasedPublishSubscribe\CommonContracts\obj\Debug\CommonStuffs.pdb
+F:\ebook\Development\Article Writting\TopicBasedPubSub\Update1\writeup_Topic\FinalCode\WCF\Backup3_fromcodeproject\TopicBasedPublishSubscribe\TopicBasedPublishSubscribe\CommonContracts\bin\Debug\CommonStuffs.dll
+F:\ebook\Development\Article Writting\TopicBasedPubSub\Update1\writeup_Topic\FinalCode\WCF\Backup3_fromcodeproject\TopicBasedPublishSubscribe\TopicBasedPublishSubscribe\CommonContracts\bin\Debug\CommonStuffs.pdb
+F:\ebook\Development\Article Writting\TopicBasedPubSub\Update1\writeup_Topic\FinalCode\WCF\Backup3_fromcodeproject\TopicBasedPublishSubscribe\TopicBasedPublishSubscribe\CommonContracts\obj\Debug\ResolveAssemblyReference.cache
+F:\ebook\Development\Article Writting\TopicBasedPubSub\Update1\writeup_Topic\FinalCode\WCF\Backup3_fromcodeproject\TopicBasedPublishSubscribe\TopicBasedPublishSubscribe\CommonContracts\obj\Debug\CommonStuffs.dll
+F:\ebook\Development\Article Writting\TopicBasedPubSub\Update1\writeup_Topic\FinalCode\WCF\Backup3_fromcodeproject\TopicBasedPublishSubscribe\TopicBasedPublishSubscribe\CommonContracts\obj\Debug\CommonStuffs.pdb
+F:\ebook\Development\Article Writting\TopicBasedPubSub\Update1\writeup_Topic\FinalCode\WCF\Backup4\TopicBasedPublishSubscribe\CommonContracts\bin\Debug\CommonStuffs.dll
+F:\ebook\Development\Article Writting\TopicBasedPubSub\Update1\writeup_Topic\FinalCode\WCF\Backup4\TopicBasedPublishSubscribe\CommonContracts\bin\Debug\CommonStuffs.pdb
+F:\ebook\Development\Article Writting\TopicBasedPubSub\Update1\writeup_Topic\FinalCode\WCF\Backup4\TopicBasedPublishSubscribe\CommonContracts\obj\Debug\ResolveAssemblyReference.cache
+F:\ebook\Development\Article Writting\TopicBasedPubSub\Update1\writeup_Topic\FinalCode\WCF\Backup4\TopicBasedPublishSubscribe\CommonContracts\obj\Debug\CommonStuffs.dll
+F:\ebook\Development\Article Writting\TopicBasedPubSub\Update1\writeup_Topic\FinalCode\WCF\Backup4\TopicBasedPublishSubscribe\CommonContracts\obj\Debug\CommonStuffs.pdb
+F:\FinalCode\WCF\back5-codeproject\TopicBasedPublishSubscribe (1)\TopicBasedPublishSubscribe\CommonContracts\bin\Debug\CommonStuffs.dll
+F:\FinalCode\WCF\back5-codeproject\TopicBasedPublishSubscribe (1)\TopicBasedPublishSubscribe\CommonContracts\bin\Debug\CommonStuffs.pdb
+F:\FinalCode\WCF\back5-codeproject\TopicBasedPublishSubscribe (1)\TopicBasedPublishSubscribe\CommonContracts\obj\Debug\ResolveAssemblyReference.cache
+F:\FinalCode\WCF\back5-codeproject\TopicBasedPublishSubscribe (1)\TopicBasedPublishSubscribe\CommonContracts\obj\Debug\CommonStuffs.dll
+F:\FinalCode\WCF\back5-codeproject\TopicBasedPublishSubscribe (1)\TopicBasedPublishSubscribe\CommonContracts\obj\Debug\CommonStuffs.pdb
+C:\Users\moti.w\Desktop\TopicBasedPublishSubscribe\CommonContracts\bin\Debug\CommonStuffs.dll
+C:\Users\moti.w\Desktop\TopicBasedPublishSubscribe\CommonContracts\bin\Debug\CommonStuffs.pdb
+C:\Users\moti.w\Desktop\TopicBasedPublishSubscribe\CommonContracts\obj\Debug\CommonContracts.csproj.CoreCompileInputs.cache
+C:\Users\moti.w\Desktop\TopicBasedPublishSubscribe\CommonContracts\obj\Debug\CommonStuffs.dll
+C:\Users\moti.w\Desktop\TopicBasedPublishSubscribe\CommonContracts\obj\Debug\CommonStuffs.pdb
+C:\Users\moti.w\Desktop\WCFClientServer\Common\Bin\Debug\CommonStuffs.dll
+C:\Users\moti.w\Desktop\WCFClientServer\Common\Bin\Debug\CommonStuffs.pdb
+C:\Users\moti.w\Desktop\WCFClientServer\CommonContracts\obj\Debug\CommonContracts.csprojAssemblyReference.cache
+C:\Users\moti.w\Desktop\WCFClientServer\CommonContracts\obj\Debug\CommonContracts.csproj.CoreCompileInputs.cache
+C:\Users\moti.w\Desktop\WCFClientServer\CommonContracts\obj\Debug\CommonStuffs.dll
+C:\Users\moti.w\Desktop\WCFClientServer\CommonContracts\obj\Debug\CommonStuffs.pdb

@@ -1,0 +1,57 @@
+F:\ebook\Development\Article Writting\TopicBasedPubSub\Update1\writeup_Topic\FinalCode\WCF\TopicBasedPublishSubscribe\TCPSubscriber\bin\Debug\AthenaEventClient.exe.config
+F:\ebook\Development\Article Writting\TopicBasedPubSub\Update1\writeup_Topic\FinalCode\WCF\TopicBasedPublishSubscribe\TCPSubscriber\bin\Debug\AthenaEventClient.exe
+F:\ebook\Development\Article Writting\TopicBasedPubSub\Update1\writeup_Topic\FinalCode\WCF\TopicBasedPublishSubscribe\TCPSubscriber\bin\Debug\AthenaEventClient.pdb
+F:\ebook\Development\Article Writting\TopicBasedPubSub\Update1\writeup_Topic\FinalCode\WCF\TopicBasedPublishSubscribe\TCPSubscriber\bin\Debug\CommonStuffs.dll
+F:\ebook\Development\Article Writting\TopicBasedPubSub\Update1\writeup_Topic\FinalCode\WCF\TopicBasedPublishSubscribe\TCPSubscriber\bin\Debug\CommonStuffs.pdb
+F:\ebook\Development\Article Writting\TopicBasedPubSub\Update1\writeup_Topic\FinalCode\WCF\TopicBasedPublishSubscribe\TCPSubscriber\obj\Debug\ResolveAssemblyReference.cache
+F:\ebook\Development\Article Writting\TopicBasedPubSub\Update1\writeup_Topic\FinalCode\WCF\TopicBasedPublishSubscribe\TCPSubscriber\obj\Debug\AthenaEventClient.Properties.Resources.resources
+F:\ebook\Development\Article Writting\TopicBasedPubSub\Update1\writeup_Topic\FinalCode\WCF\TopicBasedPublishSubscribe\TCPSubscriber\obj\Debug\Subscriber.csproj.GenerateResource.Cache
+F:\ebook\Development\Article Writting\TopicBasedPubSub\Update1\writeup_Topic\FinalCode\WCF\TopicBasedPublishSubscribe\TCPSubscriber\obj\Debug\AthenaEventClient.exe
+F:\ebook\Development\Article Writting\TopicBasedPubSub\Update1\writeup_Topic\FinalCode\WCF\TopicBasedPublishSubscribe\TCPSubscriber\obj\Debug\AthenaEventClient.pdb
+F:\ebook\Development\Article Writting\TopicBasedPubSub\Update1\writeup_Topic\FinalCode\WCF\TopicBasedPublishSubscribe\TCPSubscriber\obj\Debug\SubscriberNamespace.Subscriber.resources
+F:\ebook\Development\Article Writting\TopicBasedPubSub\Update1\writeup_Topic\FinalCode\WCF\Backup3_fromcodeproject\TopicBasedPublishSubscribe\TopicBasedPublishSubscribe\TCPSubscriber\bin\Debug\CommonStuffs.dll
+F:\ebook\Development\Article Writting\TopicBasedPubSub\Update1\writeup_Topic\FinalCode\WCF\Backup3_fromcodeproject\TopicBasedPublishSubscribe\TopicBasedPublishSubscribe\TCPSubscriber\bin\Debug\CommonStuffs.pdb
+F:\ebook\Development\Article Writting\TopicBasedPubSub\Update1\writeup_Topic\FinalCode\WCF\Backup3_fromcodeproject\TopicBasedPublishSubscribe\TopicBasedPublishSubscribe\TCPSubscriber\obj\Debug\ResolveAssemblyReference.cache
+F:\ebook\Development\Article Writting\TopicBasedPubSub\Update1\writeup_Topic\FinalCode\WCF\Backup3_fromcodeproject\TopicBasedPublishSubscribe\TopicBasedPublishSubscribe\TCPSubscriber\obj\Debug\SubscriberNamespace.Subscriber.resources
+F:\ebook\Development\Article Writting\TopicBasedPubSub\Update1\writeup_Topic\FinalCode\WCF\Backup3_fromcodeproject\TopicBasedPublishSubscribe\TopicBasedPublishSubscribe\TCPSubscriber\obj\Debug\Subscriber.csproj.GenerateResource.Cache
+F:\ebook\Development\Article Writting\TopicBasedPubSub\Update1\writeup_Topic\FinalCode\WCF\Backup3_fromcodeproject\TopicBasedPublishSubscribe\TopicBasedPublishSubscribe\TCPSubscriber\bin\Debug\Subscriber.exe.config
+F:\ebook\Development\Article Writting\TopicBasedPubSub\Update1\writeup_Topic\FinalCode\WCF\Backup3_fromcodeproject\TopicBasedPublishSubscribe\TopicBasedPublishSubscribe\TCPSubscriber\bin\Debug\Subscriber.exe
+F:\ebook\Development\Article Writting\TopicBasedPubSub\Update1\writeup_Topic\FinalCode\WCF\Backup3_fromcodeproject\TopicBasedPublishSubscribe\TopicBasedPublishSubscribe\TCPSubscriber\bin\Debug\Subscriber.pdb
+F:\ebook\Development\Article Writting\TopicBasedPubSub\Update1\writeup_Topic\FinalCode\WCF\Backup3_fromcodeproject\TopicBasedPublishSubscribe\TopicBasedPublishSubscribe\TCPSubscriber\obj\Debug\SubscriberNamespace.Properties.Resources.resources
+F:\ebook\Development\Article Writting\TopicBasedPubSub\Update1\writeup_Topic\FinalCode\WCF\Backup3_fromcodeproject\TopicBasedPublishSubscribe\TopicBasedPublishSubscribe\TCPSubscriber\obj\Debug\Subscriber.exe
+F:\ebook\Development\Article Writting\TopicBasedPubSub\Update1\writeup_Topic\FinalCode\WCF\Backup3_fromcodeproject\TopicBasedPublishSubscribe\TopicBasedPublishSubscribe\TCPSubscriber\obj\Debug\Subscriber.pdb
+F:\ebook\Development\Article Writting\TopicBasedPubSub\Update1\writeup_Topic\FinalCode\WCF\Backup4\TopicBasedPublishSubscribe\TCPSubscriber\bin\Debug\Subscriber.exe.config
+F:\ebook\Development\Article Writting\TopicBasedPubSub\Update1\writeup_Topic\FinalCode\WCF\Backup4\TopicBasedPublishSubscribe\TCPSubscriber\obj\Debug\Subscriber.exe
+F:\ebook\Development\Article Writting\TopicBasedPubSub\Update1\writeup_Topic\FinalCode\WCF\Backup4\TopicBasedPublishSubscribe\TCPSubscriber\obj\Debug\Subscriber.pdb
+F:\ebook\Development\Article Writting\TopicBasedPubSub\Update1\writeup_Topic\FinalCode\WCF\Backup4\TopicBasedPublishSubscribe\TCPSubscriber\bin\Debug\Subscriber.exe
+F:\ebook\Development\Article Writting\TopicBasedPubSub\Update1\writeup_Topic\FinalCode\WCF\Backup4\TopicBasedPublishSubscribe\TCPSubscriber\bin\Debug\Subscriber.pdb
+F:\ebook\Development\Article Writting\TopicBasedPubSub\Update1\writeup_Topic\FinalCode\WCF\Backup4\TopicBasedPublishSubscribe\TCPSubscriber\bin\Debug\CommonStuffs.dll
+F:\ebook\Development\Article Writting\TopicBasedPubSub\Update1\writeup_Topic\FinalCode\WCF\Backup4\TopicBasedPublishSubscribe\TCPSubscriber\bin\Debug\CommonStuffs.pdb
+F:\ebook\Development\Article Writting\TopicBasedPubSub\Update1\writeup_Topic\FinalCode\WCF\Backup4\TopicBasedPublishSubscribe\TCPSubscriber\obj\Debug\ResolveAssemblyReference.cache
+F:\ebook\Development\Article Writting\TopicBasedPubSub\Update1\writeup_Topic\FinalCode\WCF\Backup4\TopicBasedPublishSubscribe\TCPSubscriber\obj\Debug\SubscriberNamespace.Properties.Resources.resources
+F:\ebook\Development\Article Writting\TopicBasedPubSub\Update1\writeup_Topic\FinalCode\WCF\Backup4\TopicBasedPublishSubscribe\TCPSubscriber\obj\Debug\SubscriberNamespace.Subscriber.resources
+F:\ebook\Development\Article Writting\TopicBasedPubSub\Update1\writeup_Topic\FinalCode\WCF\Backup4\TopicBasedPublishSubscribe\TCPSubscriber\obj\Debug\Subscriber.csproj.GenerateResource.Cache
+F:\FinalCode\WCF\back5-codeproject\TopicBasedPublishSubscribe (1)\TopicBasedPublishSubscribe\TCPSubscriber\bin\Debug\Subscriber.exe.config
+F:\FinalCode\WCF\back5-codeproject\TopicBasedPublishSubscribe (1)\TopicBasedPublishSubscribe\TCPSubscriber\obj\Debug\Subscriber.exe
+F:\FinalCode\WCF\back5-codeproject\TopicBasedPublishSubscribe (1)\TopicBasedPublishSubscribe\TCPSubscriber\obj\Debug\Subscriber.pdb
+F:\FinalCode\WCF\back5-codeproject\TopicBasedPublishSubscribe (1)\TopicBasedPublishSubscribe\TCPSubscriber\bin\Debug\Subscriber.exe
+F:\FinalCode\WCF\back5-codeproject\TopicBasedPublishSubscribe (1)\TopicBasedPublishSubscribe\TCPSubscriber\bin\Debug\Subscriber.pdb
+F:\FinalCode\WCF\back5-codeproject\TopicBasedPublishSubscribe (1)\TopicBasedPublishSubscribe\TCPSubscriber\bin\Debug\CommonStuffs.dll
+F:\FinalCode\WCF\back5-codeproject\TopicBasedPublishSubscribe (1)\TopicBasedPublishSubscribe\TCPSubscriber\bin\Debug\CommonStuffs.pdb
+F:\FinalCode\WCF\back5-codeproject\TopicBasedPublishSubscribe (1)\TopicBasedPublishSubscribe\TCPSubscriber\obj\Debug\ResolveAssemblyReference.cache
+F:\FinalCode\WCF\back5-codeproject\TopicBasedPublishSubscribe (1)\TopicBasedPublishSubscribe\TCPSubscriber\obj\Debug\SubscriberNamespace.Properties.Resources.resources
+F:\FinalCode\WCF\back5-codeproject\TopicBasedPublishSubscribe (1)\TopicBasedPublishSubscribe\TCPSubscriber\obj\Debug\SubscriberNamespace.Subscriber.resources
+F:\FinalCode\WCF\back5-codeproject\TopicBasedPublishSubscribe (1)\TopicBasedPublishSubscribe\TCPSubscriber\obj\Debug\Subscriber.csproj.GenerateResource.Cache
+C:\Users\moti.w\Desktop\TopicBasedPublishSubscribe\TCPSubscriber\bin\Debug\Subscriber.exe.config
+C:\Users\moti.w\Desktop\TopicBasedPublishSubscribe\TCPSubscriber\bin\Debug\Subscriber.exe
+C:\Users\moti.w\Desktop\TopicBasedPublishSubscribe\TCPSubscriber\bin\Debug\Subscriber.pdb
+C:\Users\moti.w\Desktop\TopicBasedPublishSubscribe\TCPSubscriber\bin\Debug\CommonStuffs.dll
+C:\Users\moti.w\Desktop\TopicBasedPublishSubscribe\TCPSubscriber\bin\Debug\CommonStuffs.pdb
+C:\Users\moti.w\Desktop\TopicBasedPublishSubscribe\TCPSubscriber\obj\Debug\Subscriber.csprojAssemblyReference.cache
+C:\Users\moti.w\Desktop\TopicBasedPublishSubscribe\TCPSubscriber\obj\Debug\SubscriberNamespace.Properties.Resources.resources
+C:\Users\moti.w\Desktop\TopicBasedPublishSubscribe\TCPSubscriber\obj\Debug\Subscriber.csproj.GenerateResource.cache
+C:\Users\moti.w\Desktop\TopicBasedPublishSubscribe\TCPSubscriber\obj\Debug\Subscriber.csproj.CoreCompileInputs.cache
+C:\Users\moti.w\Desktop\TopicBasedPublishSubscribe\TCPSubscriber\obj\Debug\Subscriber.csproj.CopyComplete
+C:\Users\moti.w\Desktop\TopicBasedPublishSubscribe\TCPSubscriber\obj\Debug\Subscriber.exe
+C:\Users\moti.w\Desktop\TopicBasedPublishSubscribe\TCPSubscriber\obj\Debug\Subscriber.pdb
+C:\Users\moti.w\Desktop\TopicBasedPublishSubscribe\TCPSubscriber\obj\Debug\SubscriberNamespace.Client.resources

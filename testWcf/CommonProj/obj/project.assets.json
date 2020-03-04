@@ -185,11 +185,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\yuval.s\\Desktop\\testWcf\\CommonProj\\CommonProj.csproj",
+      "projectUniqueName": "C:\\Users\\yuval.s\\GitHub\\.NET_WCF\\testWcf\\CommonProj\\CommonProj.csproj",
       "projectName": "CommonProj",
-      "projectPath": "C:\\Users\\yuval.s\\Desktop\\testWcf\\CommonProj\\CommonProj.csproj",
+      "projectPath": "C:\\Users\\yuval.s\\GitHub\\.NET_WCF\\testWcf\\CommonProj\\CommonProj.csproj",
       "packagesPath": "C:\\Users\\yuval.s\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\yuval.s\\Desktop\\testWcf\\CommonProj\\obj\\",
+      "outputPath": "C:\\Users\\yuval.s\\GitHub\\.NET_WCF\\testWcf\\CommonProj\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

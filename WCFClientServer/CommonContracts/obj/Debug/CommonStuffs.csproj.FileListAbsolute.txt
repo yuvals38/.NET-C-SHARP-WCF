@@ -1,0 +1,5 @@
+E:\Thesis Code\TopicWCFPubSUB\ENS\ENS\CommonStuffs\obj\Debug\ResolveAssemblyReference.cache
+E:\Thesis Code\TopicWCFPubSUB\ENS\ENS\CommonStuffs\bin\Debug\CommonStuffs.dll
+E:\Thesis Code\TopicWCFPubSUB\ENS\ENS\CommonStuffs\bin\Debug\CommonStuffs.pdb
+E:\Thesis Code\TopicWCFPubSUB\ENS\ENS\CommonStuffs\obj\Debug\CommonStuffs.dll
+E:\Thesis Code\TopicWCFPubSUB\ENS\ENS\CommonStuffs\obj\Debug\CommonStuffs.pdb

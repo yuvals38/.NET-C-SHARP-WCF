@@ -1,0 +1,8 @@
+D:\AthenaBroadcaster1\AthenaBroadcaster1\AstaReplacement\CentralMessagingServer\obj\Debug\CentralMessagingServer.exe
+D:\AthenaBroadcaster1\AthenaBroadcaster1\AstaReplacement\CentralMessagingServer\obj\Debug\CentralMessagingServer.pdb
+D:\AthenaBroadcaster1\AthenaBroadcaster1\AstaReplacement\CentralMessagingServer\bin\Debug\CentralMessagingServer.exe
+D:\AthenaBroadcaster1\AthenaBroadcaster1\AstaReplacement\CentralMessagingServer\bin\Debug\CentralMessagingServer.pdb
+D:\AthenaBroadcaster1\AthenaBroadcaster1\AstaReplacement\CentralMessagingServer\obj\Debug\ResolveAssemblyReference.cache
+D:\AthenaBroadcaster1\AthenaBroadcaster1\AstaReplacement\CentralMessagingServer\obj\Debug\CentralMessagingServer.Properties.Resources.resources
+D:\AthenaBroadcaster1\AthenaBroadcaster1\AstaReplacement\CentralMessagingServer\obj\Debug\CentralMessagingServer.Server.resources
+D:\AthenaBroadcaster1\AthenaBroadcaster1\AstaReplacement\CentralMessagingServer\obj\Debug\CentralMessagingServer.csproj.GenerateResource.Cache
